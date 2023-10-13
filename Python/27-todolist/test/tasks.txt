@@ -1,0 +1,4 @@
+completed:visit grandparents
+todo:do handwriting
+completed:do eye exercises
+todo:play games
